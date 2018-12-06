@@ -1,0 +1,11 @@
+putra(x,bahrun).
+putra(bahrun,fahri).
+putri(fahri,salsa).
+putra(fahri,arfan).
+putri(bahrun,salma).
+putra(salma,farhan).
+putri(x,farah).
+putra(farah,ferdi).
+putri(ferdi,syifa).
+putra(ferdi,faiz).
+putra(farah,burhan).
